@@ -36,8 +36,6 @@ email me :- shreyashpatil2605@gmail.com
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-patil-218506338/)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Shreyash_patil3) 
 
-
-![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudeshpatil07&show_icons=true&theme=tokyonight)
 ### 📊 Activity Overview  
 
 ![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sudeshpatil07&theme=tokyonight)  
